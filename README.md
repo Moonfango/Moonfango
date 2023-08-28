@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moonfango
-- 👀 I’m interested in making stuff 
-- 🌱 I’m currently learning  Data Science 
+- 👀 I’m into technology
+- 🌱 I’m currently working on fullstack applications 
 - 💞️ I’m looking to collaborate on Andriod APP , full stack ,
 - 📫 How to reach me ganeshntrj@outlook.com
 
